@@ -1,5 +1,10 @@
 ### 
-Hello, I am a data scientist with a strong background in statistics and machine learning. I have experience working on a variety of data-driven projects, ranging from natural language processing to computer vision to time series analysis. My skills include a strong understanding of statistical modeling, ML Engineering, and model deployment. I am excited to share my work and collaborate with others in the data science community on GitHub.
+Hello, I am a data scientist with a strong background in statistics and machine learning.
+
+I have experience working on a variety of data-driven projects, ranging from natural language processing to computer vision to time series analysis. 
+My skills include a strong understanding of statistical modeling, ML Engineering, and model deployment.
+
+I am excited to share my work and collaborate with others in the data science community on GitHub.
 
 
 
